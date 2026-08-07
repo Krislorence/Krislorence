@@ -85,7 +85,7 @@
 
 <img width="300"  alt="nami" src="https://github.com/user-attachments/assets/79599103-3659-4db6-a849-e757f8e54f08" />
 
-<img width="400" alt="chooper" src="https://github.com/user-attachments/assets/97c949ed-ed9e-437c-80f7-ddb8a890d5b3" />
+<img width="300" alt="chooper" src="https://github.com/user-attachments/assets/97c949ed-ed9e-437c-80f7-ddb8a890d5b3" />
 
 <img width="300" alt="robin" src="https://github.com/user-attachments/assets/63c16d23-ba05-43f6-ad2d-95cdbfddfd96" />
 
