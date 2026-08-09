@@ -26,15 +26,15 @@
 "It's not about possible or imposible, I'm doing it because I want to!" - Monkey D.Luffy
 
 <h1 align="center">📜 My Bounty Description</h1>
-<p align="center">"I'm going to be the Web Developer!" - Monkey D. Kris</p>
+<p align="center">"I'm going to be the King of Web Dev!" - Monkey D. Kris</p>
 
-*   🔭 I’m currently working on *Web-based Management & Inventory Systems*
-*   🌱 I’m currently learning *Laravel, PHP, and MySQL*
-*   👯 I’m looking to collaborate on *Open Source Projects*
-*   🤝 I’m looking for help with *DevOps & Deployment*
-*   💬 Ask me about *HTML, CSS, JavaScript, and PHP*
-*   📫 How to reach me: *chankrislorence@gmail.com*
-*   ⚡ Fun fact: *I love basketball, editing content, and playing sports!*
+
+   🌱 I’m currently learning *Laravel, PHP, and MySQL*
+   👯 I’m looking to collaborate on *Open Source Projects*
+   🤝 I’m looking for help with *DevOps & Deployment*
+   💬 Ask me about *HTML, CSS, JavaScript, and PHP*
+   📫 How to reach me: *chankrislorence@gmail.com*
+   ⚡ Fun fact: *I love basketball, editing content, and playing sports!*
 </div>
 </div>
 
