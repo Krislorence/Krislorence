@@ -1,7 +1,5 @@
 <h1 align="center">Hello, I'm Kris Lorence Chan & This is a mikos mikos</h1>
-<h2 align="center">⚓ Future Web Pirate Captain | IT Student ⚓</h2<img width="498" height="329" alt="nami" src="https://github.com/user-attachments/assets/8db9e6da-a94c-4405-b8e3-830c6af383ec" />
->
-
+<h2 align="center">⚓ Future Web Pirate Captain | IT Student ⚓</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krislorence&label=Bounty%20Views&color=red&style=flat-square" alt="krislorence" />
