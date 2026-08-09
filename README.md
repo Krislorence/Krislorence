@@ -59,13 +59,8 @@
 
 <h1 align="center">📊 Grand Line Records (GitHub Stats)</h1>
 
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krislorence&show_icons=true&locale=en&layout=compact&theme=radical" alt="krislorence top langs" />
-</p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=krislorence&show_icons=true&locale=en&theme=radical" alt="krislorence stats" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=krislorence&show_icons=true&locale=en&theme=radical" alt="krislorence stats" />
 </p>
 
 
