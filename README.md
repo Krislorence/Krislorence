@@ -29,12 +29,18 @@
 <p align="center">"I'm going to be the King of Web Dev!" - Monkey D. Kris</p>
 
 
-   🌱 I’m currently learning *Laravel, PHP, and MySQL*
-   👯 I’m looking to collaborate on *Open Source Projects*
-   🤝 I’m looking for help with *DevOps & Deployment*
-   💬 Ask me about *HTML, CSS, JavaScript, and PHP*
-   📫 How to reach me: *chankrislorence@gmail.com*
-   ⚡ Fun fact: *I love basketball, editing content, and playing sports!*
+   🌱 I’m currently learning "Laravel, PHP, and MySQL"
+   <br clear="right"> 
+   👯 I’m looking to collaborate on "Open Source Projects"
+   <br clear="right"> 
+   🤝 I’m looking for help with "DevOps & Deployment"
+   <br clear="right"> 
+   💬 Ask me about "HTML, CSS, JavaScript, and PHP"
+   <br clear="right"> 
+   📫 How to reach me: "chankrislorence@gmail.com"
+   <br clear="right"> 
+   ⚡ Fun fact: "I love basketball, editing content, and playing sports!"
+   <br clear="right"> 
 </div>
 </div>
 
