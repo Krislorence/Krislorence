@@ -60,18 +60,18 @@
 <h1 align="center">📊 Grand Line Records (GitHub Stats)</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=krislorence&show_icons=true&locale=en&theme=radical" alt="krislorence stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krislorence&show_icons=true&locale=en&theme=radical" alt="krislorence stats" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krislorence&theme=radical" alt="krislorence streak" />
+  <img src="https://streak-stats.demolab.com?user=krislorence&theme=radical" alt="krislorence streak" />
 </p>
 
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator" />
 </p>
+
 
 <h1 align="center">⚓Straw Hat Pirates is Here!!⚓</h1>
 
