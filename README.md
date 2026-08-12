@@ -60,8 +60,8 @@
 <h1 align="center">📊 Grand Line Records (GitHub Stats)</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krislorence&show_icons=true&theme=synthwave" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krislorence&layout=compact&theme=synthwave" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krislorence&show_icons=true&theme=synthwave" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krislorence&layout=compact&theme=synthwave" width="48%" />
 </p>
 
 
