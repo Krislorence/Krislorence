@@ -25,8 +25,6 @@
 
 <h1 align="center">📜 My Bounty Description</h1>
 <p align="center">"I'm going to be the King of Web Dev!" - Monkey D. Kris</p>
-
-
    1. I’m currently learning "Laravel, PHP, and MySQL"
    <br clear="right"> 
    2. I’m looking to collaborate on "Open Source Projects"
